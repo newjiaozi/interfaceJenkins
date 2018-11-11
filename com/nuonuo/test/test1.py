@@ -12,4 +12,4 @@ def searchBaiDu(sk):
 
 if __name__ == "__main__":
     searchBaiDu("jmeter")
-    print("test")
+    print("test00")
