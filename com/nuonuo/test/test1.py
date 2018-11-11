@@ -13,3 +13,5 @@ def searchBaiDu(sk):
 if __name__ == "__main__":
     searchBaiDu("jmeter")
     searchBaiDu("jenkins")
+    searchBaiDu("python")
+
